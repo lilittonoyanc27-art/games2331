@@ -1,0 +1,6 @@
+{
+  "name": "Armenian-Spanish Interactive Language Learning",
+  "description": "Interactive Armenian-Spanish reader, reading comprehension quizzes, grammar practice and irregular verb exception game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
